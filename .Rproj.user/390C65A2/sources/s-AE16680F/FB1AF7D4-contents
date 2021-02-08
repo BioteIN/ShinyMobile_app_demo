@@ -1,0 +1,118 @@
+add_dependencies        Attach all created dependencies in the ./R
+                        directory to the provided tag
+add_f7icons_dependencies
+                        Framework7 icon dependencies
+add_framework7_deps     framework7 dependencies utils
+add_pwa_deps            PWA dependencies utils
+add_pwacompat_deps      pwacompat dependencies utils
+add_shinyMobile_deps    shinyMobile dependencies utils
+createSelectOptions     Create option html tag based on choice input
+create_app_ui           Create the app UI
+create_manifest         Create a manifest for your shiny app
+f7Accordion             Framework7 accordion container
+f7ActionSheet           Framework7 action sheet
+f7Align                 Framework7 align utility
+f7Appbar                Framework7 appbar
+f7AutoComplete          Framework7 autocomplete input
+f7Badge                 Framework7 badge
+f7Block                 Framework7 block
+f7BlockFooter           Framework7 block footer
+f7BlockTitle            Framework7 block title
+f7Button                Framework7 action button
+f7Card                  Framework7 card
+f7Chip                  Framework7 chips
+f7Col                   Framework7 column container
+f7ColorPicker           Create a Framework7 color picker input
+f7DatePicker            Framework7 date picker
+f7Dialog                Framework7 dialog window
+f7DownloadButton        Create a download button
+f7Fab                   Framework7 floating action button (FAB)
+f7FabClose              Framework7 FAB close
+f7Fabs                  Framework7 container for floating action button
+                        (FAB)
+f7File                  File Upload Control
+f7Flex                  Framework7 flex container
+f7Float                 Framework7 float utility
+f7Found                 Utility to display an item when the search is
+                        successful.
+f7Gallery               Launch the shinyMobile Gallery
+f7Gauge                 Framework7 gauge
+f7HideOnEnable          Utility to hide a given tag when f7Searchbar is
+                        enabled.
+f7HideOnSearch          Utility to hide a given tag on search
+f7Icon                  Framework7 icons
+f7InsertTab             Framework7 tab insertion
+f7Item                  Framework7 body item
+f7Items                 Framework7 item container
+f7Link                  Framework7 link
+f7List                  Create a framework 7 contact list
+f7ListGroup             Create a framework 7 group of contacts
+f7ListIndex             Create a Framework 7 list index
+f7ListIndexItem         Create a Framework 7 list index item
+f7ListItem              Create a Framework 7 contact item
+f7Login                 Framework7 login screen
+f7Margin                Framework7 margin utility
+f7Menu                  Framework7 menu container
+f7MessageBar            Framework7 message bar.
+f7Messages              Framework7 messages container
+f7Navbar                Framework7 Navbar
+f7NotFound              Utility to display an item when the search is
+                        unsuccessful.
+f7Notif                 Framework7 notification
+f7Padding               Framework7 padding utility
+f7Page                  Framework7 page container
+f7Panel                 Framework7 panel
+f7PanelMenu             Framework7 sidebar menu
+f7Password              Create an f7 password input
+f7PhotoBrowser          Framework7 photo browser
+f7Picker                Framework7 picker input
+f7Popover               Framework7 popover
+f7Popup                 Framework7 popup
+f7Progress              Framework7 progress bar
+f7Radio                 Framework7 radio input
+f7RemoveTab             Framework7 tab deletion
+f7Row                   Framework7 row container
+f7SearchIgnore          Utility to ignore an item from search.
+f7Searchbar             Framework 7 searchbar
+f7SearchbarTrigger      Framework 7 searchbar trigger
+f7Segment               Framework7 segmented button container
+f7Select                Framework7 select input
+f7Shadow                Framework7 shadow effect
+f7Sheet                 Framework7 sheet
+f7ShowNavbar            Show a Framework7 navbar
+f7ShowPreloader         Framework7 preloader
+f7SingleLayout          Framework7 single layout
+f7Skeleton              Framework 7 skeleton effect
+f7Slide                 Framework7 slide
+f7Slider                Framework7 range slider
+f7SmartSelect           Framework7 smart select
+f7SplitLayout           Framework7 split layout
+f7Stepper               Framework7 stepper input
+f7SubNavbar             Framework7 sub navbar
+f7Swipeout              Framework7 swipeout element
+f7Swiper                Framework7 swiper
+f7Tab                   Create a Framework7 tab item
+f7TabLayout             Framework7 tab layout
+f7TabLink               Special button/link to insert in the tabbar
+f7Table                 Framework7 table
+f7Tabs                  Create a Framework7 tabs
+f7TapHold               Framework7 tapHold module
+f7Text                  Framework7 text input
+f7TextArea              Framework7 text area input
+f7Timeline              Framework7 timeline
+f7Toast                 Framework7 toast
+f7Toggle                Framework7 toggle input
+f7Toolbar               Framework7 Toolbar
+f7Tooltip               Framework7 tooltip
+f7ValidateInput         Framework7 input validation
+f7VirtualList           Framework7 virtual list
+f7checkBox              Framework7 checkbox
+f7checkBoxGroup         Framework7 checkbox group
+getF7Colors             Function to get all colors available in
+                        shinyMobile
+preview_mobile          Allow to preview a given app on different
+                        devices.
+updateF7App             Update Framework7 configuration
+updateF7Entity          Update Framework7 entity
+updateF7Tabs            Update a Framework 7 tabsetPanel
+updateF7VirtualList     Update a f7VirtualList on the server side

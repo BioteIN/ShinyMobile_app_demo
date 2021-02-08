@@ -1,0 +1,24 @@
+{
+    "id": "C7B46D9D",
+    "path": "B:/My Projects/R/ShinyMobile/ShinyMobile_app/global.R",
+    "project_path": "global.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1611085063172.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "58,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1610789117,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610789117,
+    "read_only": false,
+    "read_only_alternatives": []
+}

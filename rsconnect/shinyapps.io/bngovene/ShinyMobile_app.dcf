@@ -1,0 +1,12 @@
+name: ShinyMobile_app
+title: ShinyMobile_app
+username:
+account: bngovene
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3486513
+bundleId: 4170594
+url: https://bngovene.shinyapps.io/ShinyMobile_app/
+when: 1612259551.29511
+asMultiple: FALSE
+asStatic: FALSE

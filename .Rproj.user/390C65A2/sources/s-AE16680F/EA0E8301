@@ -1,0 +1,25 @@
+{
+    "id": "EA0E8301",
+    "path": "B:/My Projects/R/ShinyMobile/ShinyMobile_app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1611084200702.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "178,63",
+        "scrollLine": "163"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612519555,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612520047721,
+    "read_only": false,
+    "read_only_alternatives": []
+}

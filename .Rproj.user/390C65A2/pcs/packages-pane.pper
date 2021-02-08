@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "B:/Program Files/R/R-3.6.2/library",
+        "installDependencies": true
+    }
+}
